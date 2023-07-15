@@ -1,6 +1,14 @@
 # Distributed-computation-with-MPI
 Parallel Distributed-computation-with-MPI
 
+The detail problem description is in Parallel_help_book
+
+We use MPI and Openmp to Calculate sparse matrix:
+
+$ Gx(t) + C \dot x(t) = Bu(t)$
+
+where G, C, B are all sparse matrix and provided in ./data.
+
 CONFIGURE THE ENVIRONMENT
 =========================
 
